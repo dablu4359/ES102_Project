@@ -1,7 +1,7 @@
 # ES102_Project
 Hello there!
 
-This is simple python project.
+This is simple python project. I wrote the code that runs in terminal. We can use this to store the Bank-Account data of the customers of your bank.
 
 I have used 3 modules of python to make this project.
   1) pickle
